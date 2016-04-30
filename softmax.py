@@ -1,4 +1,6 @@
-"""Softmax."""
+"""Softmax function turns the scores into probability, higher the scores higher the probability
+np.exp(x)/np.sum(np.exp(x),axis=1
+"""
 
 scores = [3.0, 1.0, 0.2]
 
