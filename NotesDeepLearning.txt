@@ -1,0 +1,33 @@
+Logistic classification:
+
+
+stochastic optimization:
+
+Data and Parameter Tuning:
+
+
+Tools: TensorFlow
+
+Course: Deep Learning 
+
+————————————————————————
+
+Supervised Classification:
+
+Ranking:
+
+Softmax:
+
+np.exp(x)/np.sum(np.exp(x),axis=1)
+
+
+If you increase the size of your output i.e. if you multiply with a positive number greater than 1 your classifier becomes more confident
+
+instead if you decrease the size of your output it becomes unsure.
+
+One hot encoding:
+
+cross entropy:
+
+
+
